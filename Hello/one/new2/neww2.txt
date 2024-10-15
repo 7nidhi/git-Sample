@@ -1,1 +1,5 @@
-this is neww2 file. I have added new things.
+ change folder name
+
+git mv "old_folder" new_folder
+git commit -m "
+git push
